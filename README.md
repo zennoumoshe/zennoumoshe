@@ -33,7 +33,7 @@ I'm an aspiring **Data Analyst** based in Israel, with a strong interest in:
 
 ## 🎯 What I'm looking for
 
-- Entry-level opportunities as **Data Analyst**
+- Opportunities as **Data Analyst** or **Data Scientist**
 - Real-world projects in technologicals environment
 - Collaborations on data-driven decision-making problems
 
