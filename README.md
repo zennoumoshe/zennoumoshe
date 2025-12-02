@@ -4,6 +4,7 @@ I'm an aspiring **Data Analyst** based in Israel, with a strong interest in:
 
 - Data analysis with **Python** (pandas, NumPy, scikit-learn)
 - **Complex SQL queries** and **databases**
+- Built and evaluated models using **Machine Learning**
 - **Business Intelligence** and decision-making
 
 ---
