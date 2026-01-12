@@ -25,20 +25,6 @@ I'm an aspiring **Data Analyst** based in Israel, with a strong interest in:
 
 ---
 
-## 🔍 Featured Project — Fraud Detection on Banking Transactions
-
-**Project:** End-to-end analysis of 10,000 synthetic banking transactions to detect fraud patterns and build a simple fraud detection pipeline.
-
-- Exploratory data analysis (EDA)
-- Fraud rate by country, transaction type, merchant category, hour
-- Feature engineering (risk flags, combined risk score, night transactions)
-- Lightweight models (Logistic Regression, Random Forest)
-- Business-oriented recommendations
-
-👉 [View the project repository](https://github.com/zennoumoshe-design/fraud-detection-bank-transactions)
-
----
-
 ## 🔍 Featured Project — COVID-19 Diagnosis Prediction
 
 **Project:** End-to-end data analysis and machine learning pipeline to predict COVID-19 infection based on clinical, blood test, and viral test data.
@@ -50,6 +36,20 @@ I'm an aspiring **Data Analyst** based in Israel, with a strong interest in:
 - Hyperparameter optimization and decision threshold tuning based on business objectives (recall-oriented)
 
 👉 [View the project repository](https://github.com/zennoumoshe-design/covid-19-diagnosis-ml)
+
+---
+
+## 🔍 Featured Project — Fraud Detection on Banking Transactions
+
+**Project:** End-to-end analysis of 10,000 synthetic banking transactions to detect fraud patterns and build a simple fraud detection pipeline.
+
+- Exploratory data analysis (EDA)
+- Fraud rate by country, transaction type, merchant category, hour
+- Feature engineering (risk flags, combined risk score, night transactions)
+- Lightweight models (Logistic Regression, Random Forest)
+- Business-oriented recommendations
+
+👉 [View the project repository](https://github.com/zennoumoshe-design/fraud-detection-bank-transactions)
 
 ---
 
